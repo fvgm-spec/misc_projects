@@ -75,6 +75,8 @@ def extract_with_playwright(city_id, city_name=None):
             json.dump(all_data, f, indent=2)
         
         print(f"Saved {len(responses)} network responses to {filename}")
+        print(f"Data location: {os.path.abspath(filename)}")
+        print(f"File size: {os.path.getsize(filename) / 1024 / 1024:.1f} MB")
         browser.close()
         
         return filename
