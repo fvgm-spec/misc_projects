@@ -1,0 +1,7 @@
+A tutorial search intent is one where the core question a searcher is asking starts with “how do I…”  This type of keyword will often, but not always, contain a verb.  “Python logging” or “install SQL driver” or sometimes something literally containing the word “tutorial.”
+
+Tutorials don’t really follow a templated outline, per se.  Generally they’re going to be sequential in nature, with lots of explanation and screenshots, with H2s and H3s sprinkled in to keep things organized.  
+
+With tutorials, you generally want to advertise and have plenty of examples for the searcher, particularly if the actual how-to part is relatively short.  In other words, if you’re writing a blog post about the vector data structure, you might run out of steam on pure how-to relatively quickly, but you can then give usage examples or have a best practices section or the like.
+
+The general gist is that you want to take the reader from 0 to “doing the thing” and then use any left over space to arm them with additional knowledge to take with them, as situationally appropriate.

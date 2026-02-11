@@ -1,0 +1,59 @@
+Logistics
+
+Client
+Influx Data
+Content Model
+Guest Blog
+Target Word Count
+1,200 to 1,400
+
+Content Particulars
+
+Title
+How to Use Times Series Autoregression (With Examples)
+Keyword
+times series autoregression
+What are searchers really asking?
+Searchers want to know how to implement time series autoregression for forecasting use cases. 
+What content structure typically answers this question?
+Tutorial
+Who would typically ask this question?
+Data scientist, analysts, engineers, technical professionals
+What do we want the reader to do?
+We want the reader to understand how to use a times series autoregression model and consider how InfluxDB can help
+SEO Meta Description
+Learn how to use time series autoregression for forecasting in this hands-on Python tutorial
+CTA to Include
+
+General Client Guidance
+
+Typical Article Structure
+Tutorials don’t really follow a templated outline, per se.  Generally they’re going to be sequential in nature, with lots of explanation and screenshots, with H2s and H3s sprinkled in to keep things organized.  
+
+With tutorials, you generally want to advertise and have plenty of examples for the searcher, particularly if the actual how-to part is relatively short.  In other words, if you’re writing a blog post about the vector data structure, you might run out of steam on pure how-to relatively quickly, but you can then give usage examples or have a best practices section or the like.
+
+The general gist is that you want to take the reader from 0 to “doing the thing” and then use any left over space to arm them with additional knowledge to take with them, as situationally appropriate.
+
+For this post, that could look like starting off with an explanation of what autogression is in time series analysis, then go into step-by-step implementation in Python. Help the reader understand lags, autocorrelation, and forecasting output. Try to use a practical example they can adapt for their own data.
+
+Topics that Appear in Ranking Results
+Here are some ideas for possible H2s and H3s as you create an outline. 
+    • Autoregression Models for Time Series Forecasting With Python
+    • Types of Autoregressive Models
+    • Implementing AR Model for predicting Temperature
+    • Importing Necessary Libraries
+    • Loading and Preprocessing the data
+    • Plotting the Results
+    • Benefits and Drawbacks of Autoregressive Models
+Successful Post Checklist
+    • 
+SERP Features
+    • AI Overview
+
+A tutorial search intent is one where the core question a searcher is asking starts with “how do I…”  This type of keyword will often, but not always, contain a verb.  “Python logging” or “install SQL driver” or sometimes something literally containing the word “tutorial.”
+
+Tutorials don’t really follow a templated outline, per se.  Generally they’re going to be sequential in nature, with lots of explanation and screenshots, with H2s and H3s sprinkled in to keep things organized.  
+
+With tutorials, you generally want to advertise and have plenty of examples for the searcher, particularly if the actual how-to part is relatively short.  In other words, if you’re writing a blog post about the vector data structure, you might run out of steam on pure how-to relatively quickly, but you can then give usage examples or have a best practices section or the like.
+
+The general gist is that you want to take the reader from 0 to “doing the thing” and then use any left over space to arm them with additional knowledge to take with them, as situationally appropriate.

@@ -1,0 +1,47 @@
+In the SEO world, there is a concept called search intent, and you most likely have heard that bandied about, if you've especially been doing any work with us for a while.
+
+Uhm, we actually go a little bit beyond the idea of search intent, and we drill into something even more specific.
+
+But before I get into that, let me just show you what search intent really means. So, generally speaking, somebody who's in the SEO world will categorize a keyword into one of about four buckets, usually, you see.
+
+And this is pretty well articulated here in chatbot mode. Informational is when they're just looking to understand more about a topic, so if you were googling search intent, your search intent would be informational, because you're wondering what this means.
+
+Uhm, navigational is also pretty simple to reason about, that's when you type in Amazon and search, because you don't feel like typing in amazon.com. Uhm, so that just means you're trying to go directly to something on the internet, but you don't know the exact URL.
+
+Commercial, this is when And finally, transactional is when you're like actually trying to buy something. And that might be like, you know, Chinese food near me or light bulbs.
+or something like that. Now, for hit subscribe purposes, if you're watching this, uhm, it seems like probably all of these ought not to get equal attention, because informational is usually where we are with occasional forays into commercial.
+
+The other two almost don't matter. Well, uhm, the, uh, the origin of all this and the way this is thought of is going to be e-commerce and retail, where, uhm, navigational, transactional, and commercial play a much more intense role.
+
+So, So, for those of us in the business of content marketing, this is a little bit of an ill fit.
+
+And that's why we get into the idea that I'm… Uh, creating content about here right at this moment, which is, uhm, we want to understand in briefing format, not just which one of these, uhm, the searcher, not just which search intent the person has, because that's pretty easy.
+
+It's almost always going to be informational and occasionally commercial, and we're going to know that before briefing out a post, so you don't need to figure it out.
+
+So, we don't really care about this. What's more interesting is, uhm, what question the searcher is asking. So, this is my own, I guess, articulated theory of SEO, and I wrote a book on the topic at one point, the SEO for Non-Scumbags book, and basically the thing that I always say is any Google search
+is just a question mark. It's not that someone's asking, they're just leaving out words. So, what we really want to do at the core of this methodology is we want to figure out what question that person is asking, and that's why in the brief, this is formed as what are searchers asking.
+
+Uhm, so let's say that I Google the term DevOps. What I'm really asking, most likely, if I'm executing this search, is I'm asking what is DevOps?
+
+What does this term mean? And if you don't believe me, take a look at the, uhm, ranking articles. You've got number one here, what is DevOps?
+number 2 is interestingly like a high-authority Microsoft page, but you got Atalasi in here with what is DevOps, you've got Wikipedia which sort of implies what is DevOps.
+
+So, you can see this theme over and over again. You, if you are curious what questions people are asking whenever you Google something, you can look, number one, at the titles in the search results.
+
+A lot of times Google, Bing, search engines in general, uhm, will already be ranking articles with similar kind of groups of titles, and that will give you a feel for what the searcher is asking.
+and then you can also make some inferences at times based on the people also ask here so what is what exactly DevOps do I don't know what that means but a lot of times if you google a term you might if it's if the question they're really asking is what is this thing you might say like what is this thing
+in the people also ask but generally speaking our methodology involves trying to deduce the question that people are asking when they google something or questions sometimes they'll be asking slight variants of the same question this is usually when you would deploy a guide to imply that you're going
+to answer a series of questions but you want to deduce what questions the searcher is asking so that you can think about creating content that promises to answer those questions.
+
+You create a piece of content with a title that will offer an answer to that question. So what is DevOps?
+
+If that's what I'm wondering, seeing that question mirrored back to me in the title is a strong signal to click.
+
+You'll also try to create something here in what's called the meta description to, uhm, also promise to answer that question and then you better actually answer the question in the post or it's not going to rank for very long.
+
+Google will detect that people are pogo sticking and hitting back. Uh, so you need to answer this question in sort of convincing fashion or you just need to be Amazon at really high authority.
+
+Uhm, but in general you want to create content that promises to answer the question in the things you see in the search results and then delivers on that promise and that is kind of the essence of good content.
+
+Summary is why we think about, uhm, what are the searchers really asking here because that informs the rest of the brief and it should inform the piece of content that you're writing.

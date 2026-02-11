@@ -1,0 +1,54 @@
+ 
+Logistics
+
+Client
+Influx
+Content Model
+Guest Blog
+Target Word Count
+1,200 to 1,400
+
+Content Particulars
+
+Title
+- How to Use Pandas Time Index: A Tutorial With Examples
+Keyword
+- pandas time index
+What are searchers really asking?
+- How do I create and use a time-based index in Pandas?
+What content structure typically answers this question?
+- Tutorial
+Who would typically ask this question?
+- Analysts, engineers, data scientists, python developers
+What do we want the reader to do?
+- We want the reader to understand how to use Pandas time index with practical examples, and to consider trying InfluxDB. 
+SEO Meta Description
+- Learn how to use Pandas time index to manage and analyze time series data with our practical tutorial. 
+
+General Client Guidance
+
+Typical Article Structure
+
+The goal of this post is to create a tutorial for pandas time index using InfluxDB 3 Python client. 
+Tutorials don’t really follow a templated outline, per se.  Generally they’re going to be sequential in nature, with lots of explanation and screenshots, with H2s and H3s sprinkled in to keep things organized.  
+With tutorials, you generally want to advertise and have plenty of examples for the searcher, particularly if the actual how-to part is relatively short.  In other words, if you’re writing a blog post about the vector data structure, you might run out of steam on pure how-to relatively quickly, but you can then give usage examples or have a best practices section or the like.
+
+The general gist is that you want to take the reader from 0 to “doing the thing” and then use any left over space to arm them with additional knowledge to take with them, as situationally appropriate.
+Topics that Appear in Ranking Results
+
+Here are some ideas for possible H2s and H3s as you create an outline. 
+- How do I properly set the Datetimeindex for a Pandas datetime object in a dataframe?
+- DatetimeIndex() Syntax and Usage
+- Attributes of Pandas DatetimeIndex
+- Extract Year from Pandas DatetimeIndex
+- Extract Month from Pandas DatetimeIndex
+- Extract Day, Hour, Minute, and Time from DatetimeIndex
+- Find the Date is the First Day of the Month from Pandas DatatimeIndex
+- Find Date is the End of the Month
+- Find Day is the Start Day of the Year
+- Find Day is the End of the Year
+- Find Year is a Leap in Pandas DatetimeIndex
+- Find Day of Week DatetimeIndex
+- Round Date in Pandas DatetimeIndex
+- FAQ on Pandas DatetimeIndex
+

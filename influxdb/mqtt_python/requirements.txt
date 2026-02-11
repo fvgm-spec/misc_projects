@@ -1,0 +1,8 @@
+paho-mqtt==1.6.1
+influxdb3-python==0.5.0
+pandas==2.1.4
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+python-dotenv==1.0.0
+requests==2.31.0
