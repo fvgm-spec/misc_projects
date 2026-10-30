@@ -1,0 +1,44 @@
+{
+  "name": "Retail Analytics Delta Live Tables Pipeline",
+  "storage": "/pipelines/retail_analytics",
+  "configuration": {
+    "pipeline.trigger.interval": "triggered",
+    "bundle.sourcePath": "/Workspace/Users/your-email@domain.com/retail_analytics"
+  },
+  "clusters": [
+    {
+      "label": "default",
+      "num_workers": 0,
+      "spark_conf": {
+        "spark.databricks.cluster.profile": "singleNode",
+        "spark.master": "local[*]"
+      },
+      "custom_tags": {
+        "cluster_type": "single_node",
+        "project": "retail_analytics"
+      }
+    }
+  ],
+  "libraries": [
+    {
+      "notebook": {
+        "path": "/Users/your-email@domain.com/dlt_bronze_layer"
+      }
+    },
+    {
+      "notebook": {
+        "path": "/Users/your-email@domain.com/dlt_silver_layer"
+      }
+    },
+    {
+      "notebook": {
+        "path": "/Users/your-email@domain.com/dlt_gold_layer"
+      }
+    }
+  ],
+  "target": "retail_analytics_dev",
+  "continuous": false,
+  "development": true,
+  "photon": false,
+  "channel": "CURRENT"
+}
